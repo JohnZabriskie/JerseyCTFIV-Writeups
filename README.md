@@ -2,6 +2,8 @@
 
 These are my writeups for the challenges I created for [JerseyCTF IV](https://ctftime.org/event/2230)
 
+Please visit [JerseyCTF](https://jerseyctf.com) for JerseyCTF V in spring of 2025!
+
 
 ## Challenges
 | Challenge Name  | Description |
