@@ -40,4 +40,4 @@
 
 * We can quickly uncover the hidden text through a [decoder](https://www.irongeek.com/i.php?page=security/unicode-steganography-homoglyph-encoder) and get this response: `This is the final clue to your puzzle. flag3{nothing2see}`
 
-* We can put this all together to get `jctf{coder:soda:nothing2see}`
+* We can put this all together to get our full flag: `jctf{coder:soda:nothing2see}`
