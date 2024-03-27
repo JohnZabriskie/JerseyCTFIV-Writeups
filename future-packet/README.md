@@ -35,7 +35,7 @@ After you get through the core, I have deployed my malicious software onto your 
 _____________________________________________________________________________________________________________________
 ```
 * The first clue here is to decrypt the first flag, but what the heck is that code. Well, we could throw that into a cipher identifier, or check out the clues given to us to find out what kind of cipher it is. 
-* Name of file: `BeforeAllCanOnlyNotice.txt` -> **B**efore**A**ll**C**an**O**nly**N**otice...
+* Name of file: `BeforeAllCanOnlyNotice.txt` -> [**B**]efore[**A**]ll[**C**]an[**O**]nly[**N**]otice...
 * Top line of this file: This text file has some **porky** details below.
 * We find out from either the Cipher Identifier or the Clues hidden that this is a [Bacon Cipher](https://en.wikipedia.org/wiki/Bacon%27s_cipher)!
 * `BAAAB AABAA AAABA BAABB BAAAA AABAA` decoded is `SECURE` which noted from the text is our first flag
